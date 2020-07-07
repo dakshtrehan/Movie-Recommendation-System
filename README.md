@@ -6,3 +6,5 @@ The aim is to recommend movies based on other user's rating and customer's inter
 2. Algorithm used :- Basic Statistics
 3. Dataset :- movie_ID_title, u.csv
 4. Libraries used :- Matplotlib, Pandas, Numpy
+
+Visit me on (www.dakstrehan.com)
